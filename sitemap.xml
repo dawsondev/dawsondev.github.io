@@ -65,6 +65,9 @@
     <loc>https://dawsondev.github.io/posts/test-8/</loc>
     <lastmod>1012-01-08T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://dawsondev.github.io/about/</loc>
+    <lastmod>1012-01-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://dawsondev.github.io/posts/test-7/</loc>
     <lastmod>1012-01-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -86,8 +89,8 @@
     <loc>https://dawsondev.github.io/posts/test-1/</loc>
     <lastmod>1012-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dawsondev.github.io/about/</loc>
-  </url><url>
     <loc>https://dawsondev.github.io/categories/</loc>
+  </url><url>
+    <loc>https://dawsondev.github.io/blog/</loc>
   </url>
 </urlset>
