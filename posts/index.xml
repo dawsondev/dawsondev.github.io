@@ -6,14 +6,14 @@
     <description>Recent content in Posts on Oliver Dawson</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Aug 2024 18:56:39 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 24 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://dawsondev.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>CV</title>
+      <title>Curriculum Vitae</title>
       <link>https://dawsondev.github.io/posts/curriculum_vitae/</link>
-      <pubDate>Fri, 23 Aug 2024 18:56:39 +0200</pubDate>
+      <pubDate>Sat, 24 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://dawsondev.github.io/posts/curriculum_vitae/</guid>
-      <description>title: &amp;ldquo;Curriculum Vitae&amp;rdquo; date: 2024-08-24 draft = false My CV You can view my CV directly in your browser:&#xA;View CV</description>
+      <description>My CV You can view my CV directly in your browser:&#xA;View CV</description>
     </item>
     <item>
       <title>Creating a New Theme</title>
