@@ -166,36 +166,36 @@
   @-webkit-keyframes spin {
     to { -webkit-transform: rotate(360deg); }
   }
-  </style><div class="embed-pdf-container" id="embed-pdf-container-9e9f02fa">
-    <div class="pdf-loadingWrapper" id="pdf-loadingWrapper-9e9f02fa">
-        <div class="pdf-loading" id="pdf-loading-9e9f02fa"></div>
+  </style><div class="embed-pdf-container" id="embed-pdf-container-92265654">
+    <div class="pdf-loadingWrapper" id="pdf-loadingWrapper-92265654">
+        <div class="pdf-loading" id="pdf-loading-92265654"></div>
     </div>
     <div id="overlayText">
-      <a href="https://dawsondev.github.io/cv.pdf/" aria-label="Download" download>
+      <a href="https://dawsondev.github.io/cv.pdf" aria-label="Download" download>
         <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
             <path d="M9 13c.3 0 .5-.1.7-.3L15.4 7 14 5.6l-4 4V1H8v8.6l-4-4L2.6 7l5.7 5.7c.2.2.4.3.7.3zm-7 2h14v2H2z" />
         </svg>
       </a>
     </div>
-    <canvas class="pdf-canvas" id="pdf-canvas-9e9f02fa"></canvas>
+    <canvas class="pdf-canvas" id="pdf-canvas-92265654"></canvas>
 </div>
 
-<div class="pdf-paginator" id="pdf-paginator-9e9f02fa">
-    <button id="pdf-prev-9e9f02fa">Previous</button>
-    <button id="pdf-next-9e9f02fa">Next</button> &nbsp; &nbsp;
+<div class="pdf-paginator" id="pdf-paginator-92265654">
+    <button id="pdf-prev-92265654">Previous</button>
+    <button id="pdf-next-92265654">Next</button> &nbsp; &nbsp;
     <span>
-      <span class="pdf-pagenum" id="pdf-pagenum-9e9f02fa"></span> / <span class="pdf-pagecount" id="pdf-pagecount-9e9f02fa"></span>
+      <span class="pdf-pagenum" id="pdf-pagenum-92265654"></span> / <span class="pdf-pagecount" id="pdf-pagecount-92265654"></span>
     </span>
-    <a class="pdf-source" id="pdf-source-9e9f02fa" href="https://dawsondev.github.io/cv.pdf/">[pdf]</a>
+    <a class="pdf-source" id="pdf-source-92265654" href="https://dawsondev.github.io/cv.pdf">[pdf]</a>
 </div>
 
 <noscript>
-View the PDF file <a class="pdf-source" id="pdf-source-noscript-9e9f02fa" href="https://dawsondev.github.io/cv.pdf/">here</a>.
+View the PDF file <a class="pdf-source" id="pdf-source-noscript-92265654" href="https://dawsondev.github.io/cv.pdf">here</a>.
 </noscript>
 
 <script type="text/javascript">
     (function(){
-    var url = 'https:\/\/dawsondev.github.io\/cv.pdf\/';
+    var url = 'https:\/\/dawsondev.github.io\/cv.pdf';
 
     var hidePaginator = "true" === "true";
     var hideLoader = "" === "true";
@@ -214,10 +214,10 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-9e9f02fa" href="
         pageRendering = false,
         pageNumPending = null,
         scale = 3,
-        canvas = document.getElementById('pdf-canvas-9e9f02fa'),
+        canvas = document.getElementById('pdf-canvas-92265654'),
         ctx = canvas.getContext('2d'),
-        paginator = document.getElementById("pdf-paginator-9e9f02fa"),
-        loadingWrapper = document.getElementById('pdf-loadingWrapper-9e9f02fa');
+        paginator = document.getElementById("pdf-paginator-92265654"),
+        loadingWrapper = document.getElementById('pdf-loadingWrapper-92265654');
 
 
     
@@ -255,7 +255,7 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-9e9f02fa" href="
       });
 
       
-      document.getElementById('pdf-pagenum-9e9f02fa').textContent = num;
+      document.getElementById('pdf-pagenum-92265654').textContent = num;
     }
 
     
@@ -299,7 +299,7 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-9e9f02fa" href="
       pageNum--;
       queueRenderPage(pageNum);
     }
-    document.getElementById('pdf-prev-9e9f02fa').addEventListener('click', onPrevPage);
+    document.getElementById('pdf-prev-92265654').addEventListener('click', onPrevPage);
 
     
 
@@ -310,14 +310,14 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-9e9f02fa" href="
       pageNum++;
       queueRenderPage(pageNum);
     }
-    document.getElementById('pdf-next-9e9f02fa').addEventListener('click', onNextPage);
+    document.getElementById('pdf-next-92265654').addEventListener('click', onNextPage);
 
     
 
     pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
       pdfDoc = pdfDoc_;
       var numPages = pdfDoc.numPages;
-      document.getElementById('pdf-pagecount-9e9f02fa').textContent = numPages;
+      document.getElementById('pdf-pagecount-92265654').textContent = numPages;
 
       
       if(pageNum > numPages) {
