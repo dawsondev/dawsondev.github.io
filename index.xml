@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Oliver Dawson</title>
+    <title>DawsonDev on Oliver Dawson</title>
     <link>https://dawsondev.github.io/</link>
-    <description>Recent content on Oliver Dawson</description>
+    <description>Recent content in DawsonDev on Oliver Dawson</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
@@ -51,7 +51,7 @@
       <description>Test 8</description>
     </item>
     <item>
-      <title>About</title>
+      <title>About Me</title>
       <link>https://dawsondev.github.io/about/</link>
       <pubDate>Tue, 07 Jan 1012 00:00:00 +0000</pubDate>
       <guid>https://dawsondev.github.io/about/</guid>
