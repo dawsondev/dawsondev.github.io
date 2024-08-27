@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Science on Oliver Dawson</title>
-    <link>https://dawsondev.github.io/data-science/</link>
+    <link>http://localhost:1313/data-science/</link>
     <description>Recent content in Data Science on Oliver Dawson</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 03 Jan 1012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://dawsondev.github.io/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/data-science/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test 3</title>
-      <link>https://dawsondev.github.io/data-science/test-3/</link>
+      <link>http://localhost:1313/data-science/test-3/</link>
       <pubDate>Fri, 03 Jan 1012 00:00:00 +0000</pubDate>
-      <guid>https://dawsondev.github.io/data-science/test-3/</guid>
+      <guid>http://localhost:1313/data-science/test-3/</guid>
       <description>Test 3ddddddddddddddddddddddddddddd</description>
     </item>
   </channel>
