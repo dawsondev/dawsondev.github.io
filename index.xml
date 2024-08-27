@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DawsonDev on Oliver Dawson</title>
+    <title>Categories on Oliver Dawson</title>
     <link>https://dawsondev.github.io/</link>
-    <description>Recent content in DawsonDev on Oliver Dawson</description>
+    <description>Recent content in Categories on Oliver Dawson</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
@@ -87,16 +87,16 @@
     </item>
     <item>
       <title>Test 3</title>
-      <link>https://dawsondev.github.io/posts/test-3/</link>
+      <link>https://dawsondev.github.io/data-science/test-3/</link>
       <pubDate>Fri, 03 Jan 1012 00:00:00 +0000</pubDate>
-      <guid>https://dawsondev.github.io/posts/test-3/</guid>
-      <description>Test 3</description>
+      <guid>https://dawsondev.github.io/data-science/test-3/</guid>
+      <description>Test 3ddddddddddddddddddddddddddddd</description>
     </item>
     <item>
       <title>Test 2</title>
-      <link>https://dawsondev.github.io/posts/test-2/</link>
+      <link>https://dawsondev.github.io/blog/test-2/</link>
       <pubDate>Thu, 02 Jan 1012 00:00:00 +0000</pubDate>
-      <guid>https://dawsondev.github.io/posts/test-2/</guid>
+      <guid>https://dawsondev.github.io/blog/test-2/</guid>
       <description>Test 2</description>
     </item>
     <item>
@@ -105,6 +105,13 @@
       <pubDate>Wed, 01 Jan 1012 00:00:00 +0000</pubDate>
       <guid>https://dawsondev.github.io/posts/test-1/</guid>
       <description>Test 1 I am referencing a footnote1&#xA;1package main 2 3import &amp;#34;fmt&amp;#34; 4 5func main() { 6 fmt.Println(&amp;#34;{linenos=inline}&amp;#34;) 7} 1 2 3 4 5 6 7 package main import &amp;#34;fmt&amp;#34; func main() { fmt.Println(&amp;#34;{linenos=table}&amp;#34;) } Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis in dictum tortor.&#xD;Morbi laoreet enim id sem euismod lobortis. Donec quam libero, bibendum non cursus vitae, dictum vel eros. I am the footnote&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://dawsondev.github.io/blog/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dawsondev.github.io/blog/blog/</guid>
+      <description>vlaaaaaaaaaaaaaaaaaaaaaaaaaaa+++ title = &amp;ldquo;Creating a New Theme&amp;rdquo; tags = [&amp;ldquo;hugo&amp;rdquo;, &amp;ldquo;themes&amp;rdquo;] date = &amp;ldquo;2014-09-28&amp;rdquo; +++&#xA;Introduction This tutorial</description>
     </item>
   </channel>
 </rss>

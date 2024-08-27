@@ -5,6 +5,9 @@
     <loc>https://dawsondev.github.io/posts/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://dawsondev.github.io/data-science/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://dawsondev.github.io/tags/hugo/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -77,17 +80,20 @@
     <loc>https://dawsondev.github.io/posts/test-4/</loc>
     <lastmod>1012-01-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dawsondev.github.io/posts/test-3/</loc>
+    <loc>https://dawsondev.github.io/data-science/test-3/</loc>
     <lastmod>1012-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dawsondev.github.io/posts/test-2/</loc>
+    <loc>https://dawsondev.github.io/blog/</loc>
+    <lastmod>1012-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dawsondev.github.io/blog/test-2/</loc>
     <lastmod>1012-01-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dawsondev.github.io/posts/test-1/</loc>
     <lastmod>1012-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dawsondev.github.io/categories/</loc>
+    <loc>https://dawsondev.github.io/blog/blog/</loc>
   </url><url>
-    <loc>https://dawsondev.github.io/blog/</loc>
+    <loc>https://dawsondev.github.io/categories/</loc>
   </url>
 </urlset>
