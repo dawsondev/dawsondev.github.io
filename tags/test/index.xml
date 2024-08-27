@@ -23,13 +23,6 @@
       <description>Test 8</description>
     </item>
     <item>
-      <title>About Me</title>
-      <link>https://dawsondev.github.io/about/</link>
-      <pubDate>Tue, 07 Jan 1012 00:00:00 +0000</pubDate>
-      <guid>https://dawsondev.github.io/about/</guid>
-      <description>Hi I am Oli, 27 years old and currently a Student of &amp;ldquo;Wirtschaftsinformatik&amp;rdquo; at Karlsruhe University. Literally translated this means Economics Computer Science but is also known as Business Information Systems. Glad you are taking the time to take a look at my little slice of the web. For Details on my professional journey until now, you can look at my CV found under the respective menu item.&#xA;Professionally I aim for a career in Cybersecurity and one reason for this website is to document my journey to become adept in this field, and include some write-ups for CTF challenges like those on https://tryhackme.</description>
-    </item>
-    <item>
       <title>Test 7</title>
       <link>https://dawsondev.github.io/posts/test-7/</link>
       <pubDate>Tue, 07 Jan 1012 00:00:00 +0000</pubDate>
@@ -56,13 +49,6 @@
       <pubDate>Sat, 04 Jan 1012 00:00:00 +0000</pubDate>
       <guid>https://dawsondev.github.io/posts/test-4/</guid>
       <description>Test 4</description>
-    </item>
-    <item>
-      <title>Test 3</title>
-      <link>https://dawsondev.github.io/data-science/test-3/</link>
-      <pubDate>Fri, 03 Jan 1012 00:00:00 +0000</pubDate>
-      <guid>https://dawsondev.github.io/data-science/test-3/</guid>
-      <description>Test 3ddddddddddddddddddddddddddddd</description>
     </item>
     <item>
       <title>Test 2</title>
