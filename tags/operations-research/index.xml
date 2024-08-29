@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Operations Research on Oliver Dawson</title>
+    <link>http://localhost:1313/tags/operations-research/</link>
+    <description>Recent content in Operations Research on Oliver Dawson</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Jan 1012 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/operations-research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ubike 2.0 - Optimization Problem</title>
+      <link>http://localhost:1313/data-science/ubike2-project/</link>
+      <pubDate>Fri, 03 Jan 1012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/data-science/ubike2-project/</guid>
+      <description>Using Feature Engineering and Machine Learning to predict tipping behaviour in customers This was our Semester Project in the Master&amp;rsquo;s Course Data Science. It was an interesting and challenging project which brought together all relevant base concepts of Data Science including tuning our data to offer more useful features and training a machine learning model (in our case an xgboosted decision tree) to try and predict if a given order will lead to a tip or not.</description>
+    </item>
+  </channel>
+</rss>

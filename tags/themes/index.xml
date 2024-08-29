@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Themes on Oliver Dawson</title>
-    <link>https://dawsondev.github.io/tags/themes/</link>
+    <link>http://localhost:1313/tags/themes/</link>
     <description>Recent content in Themes on Oliver Dawson</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://dawsondev.github.io/tags/themes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/themes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creating a New Theme</title>
-      <link>https://dawsondev.github.io/random/creating-a-new-theme/</link>
+      <link>http://localhost:1313/random/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://dawsondev.github.io/random/creating-a-new-theme/</guid>
+      <guid>http://localhost:1313/random/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&#xA;We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     <item>
       <title>Cybersecurity</title>
-      <link>https://dawsondev.github.io/cybersecurity/</link>
+      <link>http://localhost:1313/cybersecurity/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://dawsondev.github.io/cybersecurity/</guid>
+      <guid>http://localhost:1313/cybersecurity/</guid>
       <description>###Hello and welcome</description>
     </item>
     <item>
       <title>Data Science</title>
-      <link>https://dawsondev.github.io/data-science/</link>
+      <link>http://localhost:1313/data-science/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://dawsondev.github.io/data-science/</guid>
+      <guid>http://localhost:1313/data-science/</guid>
       <description>Introduction This tutorial dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd fdwfwfwf fwfwfwf</description>
     </item>
     <item>
       <title>(Hu)go Template Primer</title>
-      <link>https://dawsondev.github.io/random/goisforlovers/</link>
+      <link>http://localhost:1313/random/goisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://dawsondev.github.io/random/goisforlovers/</guid>
+      <guid>http://localhost:1313/random/goisforlovers/</guid>
       <description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.&#xA;This document is a brief primer on using Go templates.</description>
     </item>
   </channel>
