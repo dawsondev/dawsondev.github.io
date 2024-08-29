@@ -10,30 +10,37 @@
     <atom:link href="https://dawsondev.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creating a New Theme</title>
-      <link>https://dawsondev.github.io/posts/creating-a-new-theme/</link>
+      <link>https://dawsondev.github.io/random/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://dawsondev.github.io/posts/creating-a-new-theme/</guid>
+      <guid>https://dawsondev.github.io/random/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&#xA;We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    <item>
+      <title>Cybersecurity</title>
+      <link>https://dawsondev.github.io/cybersecurity/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://dawsondev.github.io/cybersecurity/</guid>
+      <description>###Hello and welcome</description>
     </item>
     <item>
       <title>Data Science</title>
       <link>https://dawsondev.github.io/data-science/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       <guid>https://dawsondev.github.io/data-science/</guid>
-      <description>Introduction This tutorial</description>
+      <description>Introduction This tutorial dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd fdwfwfwf fwfwfwf</description>
     </item>
     <item>
       <title>Getting Started with Hugo</title>
-      <link>https://dawsondev.github.io/posts/hugoisforlovers/</link>
+      <link>https://dawsondev.github.io/random/hugoisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://dawsondev.github.io/posts/hugoisforlovers/</guid>
+      <guid>https://dawsondev.github.io/random/hugoisforlovers/</guid>
       <description>Step 1. Install Hugo Go to Hugo releases and download the appropriate version for your OS and architecture.&#xA;Save it somewhere specific as we will be using it in the next step.&#xA;More complete instructions are available at Install Hugo&#xA;Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.&#xA;Follow the following steps:&#xA;Clone the Hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313 Corresponding pseudo commands:</description>
     </item>
     <item>
       <title>Migrate to Hugo from Jekyll</title>
-      <link>https://dawsondev.github.io/posts/migrate-from-jekyll/</link>
+      <link>https://dawsondev.github.io/random/migrate-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      <guid>https://dawsondev.github.io/posts/migrate-from-jekyll/</guid>
+      <guid>https://dawsondev.github.io/random/migrate-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like&#xA;▾ &amp;lt;root&amp;gt;/&#xD;▾ images/&#xD;logo.png&#xD;should become&#xA;▾ &amp;lt;root&amp;gt;/&#xD;▾ static/&#xD;▾ images/&#xD;logo.png&#xD;Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
     </item>
   </channel>
