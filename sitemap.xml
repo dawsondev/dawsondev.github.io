@@ -2,113 +2,122 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/random/creating-a-new-theme/</loc>
+    <loc>https://dawsondev.github.io/random/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cybersecurity/</loc>
+    <loc>https://dawsondev.github.io/cybersecurity/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/data-science/</loc>
+    <loc>https://dawsondev.github.io/data-science/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
+    <loc>https://dawsondev.github.io/tags/hugo/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/humor/</loc>
+    <loc>https://dawsondev.github.io/tags/humor/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/random/</loc>
+    <loc>https://dawsondev.github.io/random/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://dawsondev.github.io/tags/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/themes/</loc>
+    <loc>https://dawsondev.github.io/tags/themes/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/random/goisforlovers/</loc>
+    <loc>https://dawsondev.github.io/random/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/configuration/</loc>
+    <loc>https://dawsondev.github.io/tags/configuration/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/development/</loc>
+    <loc>https://dawsondev.github.io/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/docs/</loc>
+    <loc>https://dawsondev.github.io/tags/docs/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/random/hugoisforlovers/</loc>
+    <loc>https://dawsondev.github.io/random/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/go/</loc>
+    <loc>https://dawsondev.github.io/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/golang/</loc>
+    <loc>https://dawsondev.github.io/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/templates/</loc>
+    <loc>https://dawsondev.github.io/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tutorial/</loc>
+    <loc>https://dawsondev.github.io/tags/tutorial/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/jekyll/</loc>
+    <loc>https://dawsondev.github.io/tags/jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/random/migrate-from-jekyll/</loc>
+    <loc>https://dawsondev.github.io/random/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/test/</loc>
+    <loc>https://dawsondev.github.io/tags/test/</loc>
     <lastmod>1012-01-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/random/test-9/</loc>
+    <loc>https://dawsondev.github.io/random/test-9/</loc>
     <lastmod>1012-01-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/random/test-8/</loc>
+    <loc>https://dawsondev.github.io/random/test-8/</loc>
     <lastmod>1012-01-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/about/</loc>
+    <loc>https://dawsondev.github.io/tags/about/</loc>
     <lastmod>1012-01-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://dawsondev.github.io/about/</loc>
     <lastmod>1012-01-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://dawsondev.github.io/</loc>
     <lastmod>1012-01-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/random/test-7/</loc>
+    <loc>https://dawsondev.github.io/random/test-7/</loc>
     <lastmod>1012-01-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/random/test-6/</loc>
+    <loc>https://dawsondev.github.io/random/test-6/</loc>
     <lastmod>1012-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/random/test-5/</loc>
+    <loc>https://dawsondev.github.io/random/test-5/</loc>
     <lastmod>1012-01-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/random/test-4/</loc>
+    <loc>https://dawsondev.github.io/random/test-4/</loc>
     <lastmod>1012-01-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/data-science/</loc>
+    <loc>https://dawsondev.github.io/tags/data-science/</loc>
     <lastmod>1012-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/data-science/instacart-project/</loc>
+    <loc>https://dawsondev.github.io/data-science/instacart-project/</loc>
     <lastmod>1012-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/machine-learning/</loc>
+    <loc>https://dawsondev.github.io/tags/machine-learning/</loc>
     <lastmod>1012-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/python/</loc>
+    <loc>https://dawsondev.github.io/tags/operations-research/</loc>
     <lastmod>1012-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cybersecurity/test-2/</loc>
+    <loc>https://dawsondev.github.io/tags/python/</loc>
+    <lastmod>1012-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dawsondev.github.io/data-science/ubike2-project/</loc>
+    <lastmod>1012-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dawsondev.github.io/tags/educational/</loc>
     <lastmod>1012-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/random/test-1/</loc>
+    <loc>https://dawsondev.github.io/data-science/listofdatascienceresources/</loc>
+    <lastmod>1012-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dawsondev.github.io/random/test-1/</loc>
     <lastmod>1012-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://dawsondev.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/cybersecurity/software/</loc>
+    <loc>https://dawsondev.github.io/cybersecurity/software/</loc>
   </url>
 </urlset>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cybersecurity on Oliver Dawson</title>
-    <link>http://localhost:1313/cybersecurity/</link>
+    <link>https://dawsondev.github.io/cybersecurity/</link>
     <description>Recent content in Cybersecurity on Oliver Dawson</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dawsondev.github.io/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Software</title>
-      <link>http://localhost:1313/cybersecurity/software/</link>
+      <link>https://dawsondev.github.io/cybersecurity/software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cybersecurity/software/</guid>
+      <guid>https://dawsondev.github.io/cybersecurity/software/</guid>
       <description></description>
     </item>
   </channel>
