@@ -16,11 +16,11 @@
       <description>Using Feature Engineering and Machine Learning to predict tipping behaviour in customers This was our Semester Project in the Master&amp;rsquo;s Course Data Science. It was an interesting and challenging project which brought together all relevant base concepts of Data Science including tuning our data to offer more useful features and training a machine learning model (in our case an xgboosted decision tree) to try and predict if a given order will lead to a tip or not.</description>
     </item>
     <item>
-      <title>List of Data Science Resources</title>
+      <title>A beginners guide to Data Science</title>
       <link>https://dawsondev.github.io/data-science/listofdatascienceresources/</link>
       <pubDate>Thu, 02 Jan 1012 00:00:00 +0000</pubDate>
       <guid>https://dawsondev.github.io/data-science/listofdatascienceresources/</guid>
-      <description>How to get started with all things Data Science? In this post I wanted to share what resources helped me most on the journey to learn the most important concepts in Data Science and Machine Learning. While I am no means an expert and this field is unbelievably large, I managed to learn a lot about these topics through my course at university and in my free time and just wanted to make a list of the various knowledge sources I found most helpful as a beginner.</description>
+      <description>How to get started with all things Data Science? In this post I wanted to share what resources helped me most on the journey to learn the most important concepts in Data Science and Machine Learning. While I am no means an expert and this field is unbelievably large, I managed to learn a lot about these topics through my course at university and in my free time and just wanted to make a guided list of the various knowledge sources I found most helpful as a beginner.</description>
     </item>
   </channel>
 </rss>
