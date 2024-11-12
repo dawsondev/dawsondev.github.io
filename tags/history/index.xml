@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>History on Oliver Dawson</title>
-    <link>https://dawsondev.github.io/tags/history/</link>
+    <link>http://localhost:1313/tags/history/</link>
     <description>Recent content in History on Oliver Dawson</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 04 Jan 1012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://dawsondev.github.io/tags/history/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/history/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Most underrated military General in History?</title>
-      <link>https://dawsondev.github.io/random/pyrrhus/</link>
+      <link>http://localhost:1313/random/pyrrhus/</link>
       <pubDate>Sat, 04 Jan 1012 00:00:00 +0000</pubDate>
-      <guid>https://dawsondev.github.io/random/pyrrhus/</guid>
+      <guid>http://localhost:1313/random/pyrrhus/</guid>
       <description>Dude almost took out an empire that would go on to dominate for thousands of years but nobody knows who he is In this post I want to make the case why I think my bro Pyrrhus of Epirus is one of the most underrated military generals in history.&#xA;The overrated ones Everybody knows Alexander the Great. But this guy inherited a large, very professional, veteran and battle hardened Army from his daddy.</description>
     </item>
   </channel>
