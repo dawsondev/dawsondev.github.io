@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Humor on Oliver Dawson</title>
-    <link>https://dawsondev.github.io/tags/humor/</link>
-    <description>Recent content in Humor on Oliver Dawson</description>
+    <title>History on Oliver Dawson</title>
+    <link>https://dawsondev.github.io/tags/history/</link>
+    <description>Recent content in History on Oliver Dawson</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://dawsondev.github.io/tags/humor/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Random</title>
-      <link>https://dawsondev.github.io/random/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://dawsondev.github.io/random/</guid>
-      <description>For all things hobby-related, humorous content, or otherwise random topics that do not fit in anywhere else Stuff in here is not meant to be taken too seriously</description>
-    </item>
+    <lastBuildDate>Sat, 04 Jan 1012 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://dawsondev.github.io/tags/history/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Most underrated military General in History?</title>
       <link>https://dawsondev.github.io/random/pyrrhus/</link>
