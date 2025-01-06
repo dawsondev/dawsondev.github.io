@@ -114,11 +114,11 @@
       <description>wip</description>
     </item>
     <item>
-      <title>Software</title>
+      <title>Resources List</title>
       <link>https://dawsondev.github.io/cybersecurity/software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dawsondev.github.io/cybersecurity/software/</guid>
-      <description></description>
+      <description>Cybersecurity Resources and Cheat Sheets General Resources OWASP (Open Web Application Security Project) [Comprehensive cybersecurity knowledge base]&#xA;(https://owasp.org) MITRE ATT&amp;amp;CK Framework [Adversary tactics and techniques knowledge base]&#xA;(https://attack.mitre.org) Cybersecurity &amp;amp; Infrastructure Security Agency (CISA) [Cyber defense best practices and alerts]&#xA;(https://www.cisa.gov) Exploit Database [Database of known exploits]&#xA;(https://www.exploit-db.com) Hack The Box [Hands-on penetration testing practice]&#xA;(https://www.hackthebox.com) Cheat Sheets OWASP Testing Guide Cheat Sheet [Key testing steps for application security]&#xA;(https://cheatsheetseries.owasp.org/cheatsheets/OWASP_Testing_Guide.html) Nmap Cheat Sheet [Commands for network scanning and port analysis]</description>
     </item>
     <item>
       <title>test1</title>
