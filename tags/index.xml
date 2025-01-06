@@ -134,5 +134,19 @@
       <guid>https://dawsondev.github.io/tags/educational/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Diving</title>
+      <link>https://dawsondev.github.io/tags/diving/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dawsondev.github.io/tags/diving/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Test1</title>
+      <link>https://dawsondev.github.io/tags/test1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dawsondev.github.io/tags/test1/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

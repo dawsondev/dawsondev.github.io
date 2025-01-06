@@ -100,11 +100,18 @@
       <description>How to get started with all things Data Science? In this post I wanted to share what resources helped me most on the journey to learn the most important concepts in Data Science and Machine Learning. While I am no means an expert and this field is unbelievably large, I managed to learn a lot about these topics through my course at university and in my free time and just wanted to make a guided list of the various knowledge sources I found most helpful as a beginner.</description>
     </item>
     <item>
-      <title>Test 1</title>
-      <link>https://dawsondev.github.io/random/test-1/</link>
-      <pubDate>Wed, 01 Jan 1012 00:00:00 +0000</pubDate>
-      <guid>https://dawsondev.github.io/random/test-1/</guid>
-      <description>Test 1 I am referencing a footnote1&#xA;1package main 2 3import &amp;#34;fmt&amp;#34; 4 5func main() { 6 fmt.Println(&amp;#34;{linenos=inline}&amp;#34;) 7} 1 2 3 4 5 6 7 package main import &amp;#34;fmt&amp;#34; func main() { fmt.Println(&amp;#34;{linenos=table}&amp;#34;) } Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis in dictum tortor.&#xD;Morbi laoreet enim id sem euismod lobortis. Donec quam libero, bibendum non cursus vitae, dictum vel eros. I am the footnote&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
+      <title>Dive Review - Crete Agios Nikolaus Coastal Dive</title>
+      <link>https://dawsondev.github.io/random/diving_crete_agios_nikolaus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dawsondev.github.io/random/diving_crete_agios_nikolaus/</guid>
+      <description>wip</description>
+    </item>
+    <item>
+      <title>Dive Review - Cyprus Zenobia Wreck Site</title>
+      <link>https://dawsondev.github.io/random/diving_cyprus_1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dawsondev.github.io/random/diving_cyprus_1/</guid>
+      <description>wip</description>
     </item>
     <item>
       <title>Software</title>
@@ -112,6 +119,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dawsondev.github.io/cybersecurity/software/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>test1</title>
+      <link>https://dawsondev.github.io/random/test-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dawsondev.github.io/random/test-1/</guid>
+      <description>Test 1 I am referencing a footnote1&#xA;1package main 2 3import &amp;#34;fmt&amp;#34; 4 5func main() { 6 fmt.Println(&amp;#34;{linenos=inline}&amp;#34;) 7} 1 2 3 4 5 6 7 package main import &amp;#34;fmt&amp;#34; func main() { fmt.Println(&amp;#34;{linenos=table}&amp;#34;) } Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis in dictum tortor.&#xD;Morbi laoreet enim id sem euismod lobortis. Donec quam libero, bibendum non cursus vitae, dictum vel eros. I am the footnote&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
     </item>
   </channel>
 </rss>
