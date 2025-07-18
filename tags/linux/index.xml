@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on Oliver Dawson</title>
+    <link>http://localhost:1313/tags/linux/</link>
+    <description>Recent content in Linux on Oliver Dawson</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advanced Guide to Linux-Based Cyber Forensics</title>
+      <link>http://localhost:1313/cybersecurity/forensics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cybersecurity/forensics/</guid>
+      <description>Advanced Digital Forensics Guide (Disk Imaging to File Carving) This guide outlines professional forensic workflows using open-source tools on Linux. It covers:&#xA;Disk imaging and hashing Cold system analysis FAT32 and ext file system analysis File carving and recovery Each section includes practical checklists, command-line examples, and links to official tools and references. Designed for analysts and practitioners.&#xA;Disk Imaging and Acquisition (Forensically Sound) Objectives Create exact bit-by-bit images of target storage media.</description>
+    </item>
+  </channel>
+</rss>

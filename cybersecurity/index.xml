@@ -9,6 +9,13 @@
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://dawsondev.github.io/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Digital Forensics</title>
+      <link>https://dawsondev.github.io/cybersecurity/forensics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dawsondev.github.io/cybersecurity/forensics/</guid>
+      <description>Advanced Digital Forensics Guide (Disk Imaging to File Carving) Digital forensic investigations require a methodical approach and expertise in various tools and techniques. This guide provides a comprehensive, step-by-step walkthrough of advanced disk forensics – from acquiring a forensically sound image of a “cold” (powered-off) system, through detailed file system analysis (FAT32 and ext3/ext4), to recovering deleted data via file carving. All procedures emphasize open-source tools on Linux and professional practices (no casual shortcuts).</description>
+    </item>
+    <item>
       <title>Resources List</title>
       <link>https://dawsondev.github.io/cybersecurity/software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
