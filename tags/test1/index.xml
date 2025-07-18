@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Test1 on Oliver Dawson</title>
-    <link>https://dawsondev.github.io/tags/test1/</link>
+    <link>http://localhost:1313/tags/test1/</link>
     <description>Recent content in Test1 on Oliver Dawson</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://dawsondev.github.io/tags/test1/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/test1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>test1</title>
-      <link>https://dawsondev.github.io/random/test-1/</link>
+      <link>http://localhost:1313/random/test-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dawsondev.github.io/random/test-1/</guid>
+      <guid>http://localhost:1313/random/test-1/</guid>
       <description>Test 1 I am referencing a footnote1&#xA;1package main 2 3import &amp;#34;fmt&amp;#34; 4 5func main() { 6 fmt.Println(&amp;#34;{linenos=inline}&amp;#34;) 7} 1 2 3 4 5 6 7 package main import &amp;#34;fmt&amp;#34; func main() { fmt.Println(&amp;#34;{linenos=table}&amp;#34;) } Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis in dictum tortor.&#xD;Morbi laoreet enim id sem euismod lobortis. Donec quam libero, bibendum non cursus vitae, dictum vel eros. I am the footnote&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
     </item>
   </channel>

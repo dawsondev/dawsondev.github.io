@@ -30,69 +30,6 @@
       <description></description>
     </item>
     <item>
-      <title>Configuration</title>
-      <link>https://dawsondev.github.io/tags/configuration/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://dawsondev.github.io/tags/configuration/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Development</title>
-      <link>https://dawsondev.github.io/tags/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://dawsondev.github.io/tags/development/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Docs</title>
-      <link>https://dawsondev.github.io/tags/docs/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://dawsondev.github.io/tags/docs/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Go</title>
-      <link>https://dawsondev.github.io/tags/go/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://dawsondev.github.io/tags/go/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Golang</title>
-      <link>https://dawsondev.github.io/tags/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://dawsondev.github.io/tags/golang/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Templates</title>
-      <link>https://dawsondev.github.io/tags/templates/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://dawsondev.github.io/tags/templates/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tutorial</title>
-      <link>https://dawsondev.github.io/tags/tutorial/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://dawsondev.github.io/tags/tutorial/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Jekyll</title>
-      <link>https://dawsondev.github.io/tags/jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      <guid>https://dawsondev.github.io/tags/jekyll/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Test</title>
-      <link>https://dawsondev.github.io/tags/test/</link>
-      <pubDate>Thu, 09 Jan 1012 00:00:00 +0000</pubDate>
-      <guid>https://dawsondev.github.io/tags/test/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>About</title>
       <link>https://dawsondev.github.io/tags/about/</link>
       <pubDate>Tue, 07 Jan 1012 00:00:00 +0000</pubDate>
@@ -139,13 +76,6 @@
       <link>https://dawsondev.github.io/tags/diving/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dawsondev.github.io/tags/diving/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Test1</title>
-      <link>https://dawsondev.github.io/tags/test1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dawsondev.github.io/tags/test1/</guid>
       <description></description>
     </item>
   </channel>
