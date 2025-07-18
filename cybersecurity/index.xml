@@ -6,21 +6,21 @@
     <description>Recent content in Cybersecurity on Oliver Dawson</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 1012 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://dawsondev.github.io/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resources List</title>
+      <link>https://dawsondev.github.io/cybersecurity/software/</link>
+      <pubDate>Thu, 02 Jan 1012 00:00:00 +0000</pubDate>
+      <guid>https://dawsondev.github.io/cybersecurity/software/</guid>
+      <description>Cybersecurity Resources and Cheat Sheets General Resources OWASP (Open Web Application Security Project) [Comprehensive cybersecurity knowledge base]&#xA;(https://owasp.org) MITRE ATT&amp;amp;CK Framework [Adversary tactics and techniques knowledge base]&#xA;(https://attack.mitre.org) Cybersecurity &amp;amp; Infrastructure Security Agency (CISA) [Cyber defense best practices and alerts]&#xA;(https://www.cisa.gov) Exploit Database [Database of known exploits]&#xA;(https://www.exploit-db.com) Hack The Box [Hands-on penetration testing practice]&#xA;(https://www.hackthebox.com) TryHackMe [Beginner-friendly penetration testing labs]&#xA;(https://tryhackme.com) Cheat Sheets OWASP Testing Guide Cheat Sheet [Key testing steps for application security]</description>
+    </item>
     <item>
       <title>Digital Forensics</title>
       <link>https://dawsondev.github.io/cybersecurity/forensics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dawsondev.github.io/cybersecurity/forensics/</guid>
       <description>Advanced Digital Forensics Guide (Disk Imaging to File Carving) Digital forensic investigations require a methodical approach and expertise in various tools and techniques. This guide provides a comprehensive, step-by-step walkthrough of advanced disk forensics – from acquiring a forensically sound image of a “cold” (powered-off) system, through detailed file system analysis (FAT32 and ext3/ext4), to recovering deleted data via file carving. All procedures emphasize open-source tools on Linux and professional practices (no casual shortcuts).</description>
-    </item>
-    <item>
-      <title>Resources List</title>
-      <link>https://dawsondev.github.io/cybersecurity/software/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dawsondev.github.io/cybersecurity/software/</guid>
-      <description>Cybersecurity Resources and Cheat Sheets General Resources OWASP (Open Web Application Security Project) [Comprehensive cybersecurity knowledge base]&#xA;(https://owasp.org) MITRE ATT&amp;amp;CK Framework [Adversary tactics and techniques knowledge base]&#xA;(https://attack.mitre.org) Cybersecurity &amp;amp; Infrastructure Security Agency (CISA) [Cyber defense best practices and alerts]&#xA;(https://www.cisa.gov) Exploit Database [Database of known exploits]&#xA;(https://www.exploit-db.com) Hack The Box [Hands-on penetration testing practice]&#xA;(https://www.hackthebox.com) TryHackMe [Beginner-friendly penetration testing labs]&#xA;(https://tryhackme.com) Cheat Sheets OWASP Testing Guide Cheat Sheet [Key testing steps for application security]</description>
     </item>
   </channel>
 </rss>

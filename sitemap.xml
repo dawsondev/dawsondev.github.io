@@ -56,6 +56,9 @@
     <loc>https://dawsondev.github.io/tags/educational/</loc>
     <lastmod>1012-01-02T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://dawsondev.github.io/cybersecurity/software/</loc>
+    <lastmod>1012-01-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://dawsondev.github.io/categories/</loc>
   </url><url>
     <loc>https://dawsondev.github.io/cybersecurity/forensics/</loc>
@@ -65,7 +68,5 @@
     <loc>https://dawsondev.github.io/random/diving_cyprus_1/</loc>
   </url><url>
     <loc>https://dawsondev.github.io/tags/diving/</loc>
-  </url><url>
-    <loc>https://dawsondev.github.io/cybersecurity/software/</loc>
   </url>
 </urlset>
