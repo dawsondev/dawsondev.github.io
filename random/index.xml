@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Random on Oliver Dawson</title>
-    <link>https://dawsondev.github.io/random/</link>
+    <link>http://localhost:1313/random/</link>
     <description>Recent content in Random on Oliver Dawson</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://dawsondev.github.io/random/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/random/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dive Review - Crete Agios Nikolaus Coastal Dive</title>
-      <link>https://dawsondev.github.io/random/diving_crete_agios_nikolaus/</link>
+      <link>http://localhost:1313/random/diving_crete_agios_nikolaus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dawsondev.github.io/random/diving_crete_agios_nikolaus/</guid>
+      <guid>http://localhost:1313/random/diving_crete_agios_nikolaus/</guid>
       <description>Depth (Max): 33m Depth (Avg) 27m Length: 44 min&#xA;wip</description>
     </item>
     <item>
       <title>Dive Review - Cyprus Zenobia Wreck Site</title>
-      <link>https://dawsondev.github.io/random/diving_cyprus_1/</link>
+      <link>http://localhost:1313/random/diving_cyprus_1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dawsondev.github.io/random/diving_cyprus_1/</guid>
+      <guid>http://localhost:1313/random/diving_cyprus_1/</guid>
       <description>Depth (Max): 35m Depth (Avg) 31m Length: 1hr 07 min (2 dives)&#xA;wip</description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Themes on Oliver Dawson</title>
-    <link>https://dawsondev.github.io/tags/themes/</link>
+    <link>http://localhost:1313/tags/themes/</link>
     <description>Recent content in Themes on Oliver Dawson</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://dawsondev.github.io/tags/themes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/themes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cybersecurity</title>
-      <link>https://dawsondev.github.io/cybersecurity/</link>
+      <link>http://localhost:1313/cybersecurity/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://dawsondev.github.io/cybersecurity/</guid>
+      <guid>http://localhost:1313/cybersecurity/</guid>
       <description>Everything related to Cybersecurity </description>
     </item>
     <item>
       <title>Data Science</title>
-      <link>https://dawsondev.github.io/data-science/</link>
+      <link>http://localhost:1313/data-science/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://dawsondev.github.io/data-science/</guid>
+      <guid>http://localhost:1313/data-science/</guid>
       <description> Anything related to Data Analytics, Machine Learning, Feature Engineering and more </description>
     </item>
   </channel>

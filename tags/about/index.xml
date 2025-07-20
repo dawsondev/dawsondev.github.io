@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Oliver Dawson</title>
-    <link>https://dawsondev.github.io/tags/about/</link>
+    <link>http://localhost:1313/tags/about/</link>
     <description>Recent content in About on Oliver Dawson</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Jan 1012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://dawsondev.github.io/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>https://dawsondev.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Tue, 07 Jan 1012 00:00:00 +0000</pubDate>
-      <guid>https://dawsondev.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>Hi I am Oli, 27 years old and currently a Student of &amp;ldquo;Wirtschaftsinformatik&amp;rdquo; at Karlsruhe University. Literally translated this means Economics Computer Science but is also known as Business Information Systems. Glad you are taking the time to take a look at my little slice of the web. For Details on my professional journey until now, you can look at my CV found under the respective menu item.&#xA;Professionally I aim for a career in Cybersecurity and one reason for this website is to document my journey to become adept in this field, and include some write-ups for CTF challenges like those on https://tryhackme.</description>
     </item>
   </channel>
