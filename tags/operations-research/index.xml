@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Operations Research on Oliver Dawson</title>
-    <link>http://localhost:1313/tags/operations-research/</link>
+    <link>https://dawsondev.github.io/tags/operations-research/</link>
     <description>Recent content in Operations Research on Oliver Dawson</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 03 Jan 1012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/operations-research/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dawsondev.github.io/tags/operations-research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ubike 2.0 - Optimization Problem</title>
-      <link>http://localhost:1313/data-science/ubike2-project/</link>
+      <link>https://dawsondev.github.io/data-science/ubike2-project/</link>
       <pubDate>Fri, 03 Jan 1012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/data-science/ubike2-project/</guid>
+      <guid>https://dawsondev.github.io/data-science/ubike2-project/</guid>
       <description>Finding the best solution for a Bike Sharing Company&amp;rsquo;s logistics with integer Programming This was our Semester Project in the Course &amp;ldquo;Operations Research&amp;rdquo; at NTU in Taiwan during my exchange Semester.</description>
     </item>
   </channel>

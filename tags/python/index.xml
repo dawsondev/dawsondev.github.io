@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python on Oliver Dawson</title>
-    <link>http://localhost:1313/tags/python/</link>
+    <link>https://dawsondev.github.io/tags/python/</link>
     <description>Recent content in Python on Oliver Dawson</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 03 Jan 1012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dawsondev.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Instacart Project</title>
-      <link>http://localhost:1313/data-science/instacart-project/</link>
+      <link>https://dawsondev.github.io/data-science/instacart-project/</link>
       <pubDate>Fri, 03 Jan 1012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/data-science/instacart-project/</guid>
+      <guid>https://dawsondev.github.io/data-science/instacart-project/</guid>
       <description>Using Feature Engineering and Machine Learning to predict tipping behaviour in customers This was our Semester Project in the Master&amp;rsquo;s Course Data Science. It was an interesting and challenging project which brought together all relevant base concepts of Data Science including tuning our data to offer more useful features and training a machine learning model (in our case an xgboosted decision tree) to try and predict if a given order will lead to a tip or not.</description>
     </item>
     <item>
       <title>Ubike 2.0 - Optimization Problem</title>
-      <link>http://localhost:1313/data-science/ubike2-project/</link>
+      <link>https://dawsondev.github.io/data-science/ubike2-project/</link>
       <pubDate>Fri, 03 Jan 1012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/data-science/ubike2-project/</guid>
+      <guid>https://dawsondev.github.io/data-science/ubike2-project/</guid>
       <description>Finding the best solution for a Bike Sharing Company&amp;rsquo;s logistics with integer Programming This was our Semester Project in the Course &amp;ldquo;Operations Research&amp;rdquo; at NTU in Taiwan during my exchange Semester.</description>
     </item>
   </channel>

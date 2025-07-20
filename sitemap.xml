@@ -2,71 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/cybersecurity/</loc>
+    <loc>https://dawsondev.github.io/tags/about/</loc>
+    <lastmod>2025-07-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dawsondev.github.io/about/</loc>
+    <lastmod>2025-07-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dawsondev.github.io/tags/</loc>
+    <lastmod>2025-07-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dawsondev.github.io/data-science/dsbeginnersguide/</loc>
+    <lastmod>2025-05-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dawsondev.github.io/tags/data-science/</loc>
+    <lastmod>2025-05-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dawsondev.github.io/tags/educational/</loc>
+    <lastmod>2025-05-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dawsondev.github.io/tags/machine-learning/</loc>
+    <lastmod>2025-05-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dawsondev.github.io/cybersecurity/forensics/</loc>
+    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dawsondev.github.io/cybersecurity/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/data-science/</loc>
+    <loc>https://dawsondev.github.io/data-science/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
+    <loc>https://dawsondev.github.io/tags/hugo/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/humor/</loc>
+    <loc>https://dawsondev.github.io/tags/humor/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/random/</loc>
+    <loc>https://dawsondev.github.io/random/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://dawsondev.github.io/tags/themes/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/themes/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/about/</loc>
+    <loc>https://dawsondev.github.io/</loc>
     <lastmod>1012-01-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>1012-01-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>1012-01-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/data-science/</loc>
+    <loc>https://dawsondev.github.io/data-science/instacart-project/</loc>
     <lastmod>1012-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/data-science/instacart-project/</loc>
+    <loc>https://dawsondev.github.io/tags/operations-research/</loc>
     <lastmod>1012-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/machine-learning/</loc>
+    <loc>https://dawsondev.github.io/tags/python/</loc>
     <lastmod>1012-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/operations-research/</loc>
+    <loc>https://dawsondev.github.io/data-science/ubike2-project/</loc>
     <lastmod>1012-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/python/</loc>
-    <lastmod>1012-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/data-science/ubike2-project/</loc>
-    <lastmod>1012-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/data-science/dsbeginnersguide/</loc>
+    <loc>https://dawsondev.github.io/cybersecurity/software/</loc>
     <lastmod>1012-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/educational/</loc>
-    <lastmod>1012-01-02T00:00:00+00:00</lastmod>
+    <loc>https://dawsondev.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/cybersecurity/software/</loc>
-    <lastmod>1012-01-02T00:00:00+00:00</lastmod>
+    <loc>https://dawsondev.github.io/random/diving_crete_agios_nikolaus/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://dawsondev.github.io/random/diving_cyprus_1/</loc>
   </url><url>
-    <loc>http://localhost:1313/cybersecurity/forensics/</loc>
-  </url><url>
-    <loc>http://localhost:1313/random/diving_crete_agios_nikolaus/</loc>
-  </url><url>
-    <loc>http://localhost:1313/random/diving_cyprus_1/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/diving/</loc>
+    <loc>https://dawsondev.github.io/tags/diving/</loc>
   </url>
 </urlset>
